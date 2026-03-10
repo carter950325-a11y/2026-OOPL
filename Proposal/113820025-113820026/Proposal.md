@@ -16,8 +16,8 @@
 # Development timeline
 
 - Week 02：撰寫 Proposal、完成練習
-  - [ ] 撰寫 Proposal
-  - [ ] 完成 Giraffe Adventure 練習
+  - [x] 撰寫 Proposal
+  - [x] 完成 Giraffe Adventure 練習
 - Week 03：PTSD 框架與環境建置
   - [ ] 建置環境
   - [ ] 測試 PTSD 框架功能

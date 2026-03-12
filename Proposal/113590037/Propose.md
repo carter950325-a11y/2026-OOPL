@@ -4,6 +4,8 @@
 
 ### Game Introduction
 這是一款經典的街機射擊遊戲。玩家在畫面下方控制一艘太空船，可左右移動並發射子彈，對抗上方不斷左右移動並逐漸逼近的外星人艦隊。遊戲包含不同種類的敵人（具備不同行為或分數）、玩家防護罩（會被子彈破壞）等機制。目標是清空所有敵人，若敵人抵達底部或玩家失去所有生命值則遊戲結束。此專案將大量運用 OOP 的繼承與多型概念來建構不同類型的實體。
+### Game Demonstration
+https://youtu.be/uGjgxwiemms?si=Z6J1Q8GmtYiBdYbd
 
 ### Development timeline
 * **Week 2：準備工作與素材找尋**
